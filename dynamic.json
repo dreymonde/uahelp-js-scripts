@@ -1,3 +1,4 @@
 {
-  "showDonationInfo": false
+  "showDonationInfo": false,
+  "showCoffeeLink": false
 }
