@@ -1,4 +1,5 @@
 {
   "showDonationInfo": true,
-  "showCoffeeLink": false
+  "showCoffeeLink": false,
+  "handleErrors": true
 }
