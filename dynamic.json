@@ -1,5 +1,7 @@
 {
   "showDonationInfo": true,
   "showCoffeeLink": false,
-  "handleErrors": true
+  "handleErrors": true,
+  "showFastestSectors": false,
+  "hideCustomDonationAmount": false
 }
