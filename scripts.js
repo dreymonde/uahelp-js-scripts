@@ -16,3 +16,7 @@ function getDonationAmount() {
         return "invalid";
     }
 }
+
+function paymentSuccessPostURL() {
+    return "https://t9orz85l31.execute-api.eu-west-1.amazonaws.com/default/donations-ukraine-function";
+}
