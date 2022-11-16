@@ -1,0 +1,18 @@
+{
+  "id" : "high-five-1",
+  "name" : "HFIVE2022",
+  "acts" : [
+    {
+      "artistName" : "Wolf Alice"
+    },
+    {
+      "artistName" : "Warhaus"
+    },
+    {
+      "artistName" : "Wet Leg"
+    },
+    {
+      "artistName" : "Froukje"
+    }
+  ]
+}
