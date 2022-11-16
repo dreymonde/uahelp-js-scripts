@@ -1,0 +1,678 @@
+{
+  "id" : "Lollapalooza-2022",
+  "name" : "Lollapalooza 2022",
+  "acts" : [
+    {
+      "artistName": "Metallica",
+      "artistName_link": "https://www.festicket.com/festivals/lollapalooza//artists/metallica/"
+    },
+    {
+      "artistName": "Dua Lipa",
+      "artistName_link": "https://www.festicket.com/festivals/lollapalooza//artists/dua-lipa/"
+    },
+    {
+      "artistName": "J. Cole",
+      "artistName_link": "https://www.festicket.com/festivals/lollapalooza//artists/j-cole/"
+    },
+    {
+      "artistName": "Green Day",
+      "artistName_link": "https://www.festicket.com/festivals/lollapalooza//artists/green-day/"
+    },
+    {
+      "artistName": "Doja Cat",
+      "artistName_link": "https://www.festicket.com/festivals/lollapalooza//artists/doja-cat/"
+    },
+    {
+      "artistName": "Machine Gun Kelly",
+      "artistName_link": "https://www.festicket.com/festivals/lollapalooza//artists/machine-gun-kelly/"
+    },
+    {
+      "artistName": "Lil Baby",
+      "artistName_link": "https://www.festicket.com/festivals/lollapalooza//artists/lil-baby/"
+    },
+    {
+      "artistName": "Kygo",
+      "artistName_link": "https://www.festicket.com/festivals/lollapalooza//artists/kygo/"
+    },
+    {
+      "artistName": "Glass Animals",
+      "artistName_link": "https://www.festicket.com/festivals/lollapalooza//artists/glass-animals/"
+    },
+    {
+      "artistName": "Billy Strings",
+      "artistName_link": "https://www.festicket.com/festivals/lollapalooza//artists/billy-strings/"
+    },
+    {
+      "artistName": "Big Sean",
+      "artistName_link": "https://www.festicket.com/festivals/lollapalooza//artists/big-sean/"
+    },
+    {
+      "artistName": "The Kid LAROI",
+      "artistName_link": "https://www.festicket.com/festivals/lollapalooza//artists/the-kid-laroi/"
+    },
+    {
+      "artistName": "Jazmine Sullivan",
+      "artistName_link": "https://www.festicket.com/festivals/lollapalooza//artists/jazmine-sullivan/"
+    },
+    {
+      "artistName": "Don Toliver",
+      "artistName_link": "https://www.festicket.com/festivals/lollapalooza//artists/don-toliver/"
+    },
+    {
+      "artistName": "Charli XCX",
+      "artistName_link": "https://www.festicket.com/festivals/lollapalooza//artists/charli-xcx/"
+    },
+    {
+      "artistName": "IDLES",
+      "artistName_link": "https://www.festicket.com/festivals/lollapalooza//artists/idles/"
+    },
+    {
+      "artistName": "Turnstile",
+      "artistName_link": "https://www.festicket.com/festivals/lollapalooza//artists/turnstile/"
+    },
+    {
+      "artistName": "Kaskade",
+      "artistName_link": "https://www.festicket.com/festivals/lollapalooza//artists/kaskade/"
+    },
+    {
+      "artistName": "REZZ",
+      "artistName_link": "https://www.festicket.com/festivals/lollapalooza//artists/rezz/"
+    },
+    {
+      "artistName": "ZHU",
+      "artistName_link": "https://www.festicket.com/festivals/lollapalooza//artists/zhu/"
+    },
+    {
+      "artistName": "YG",
+      "artistName_link": "https://www.festicket.com/festivals/lollapalooza//artists/yg/"
+    },
+    {
+      "artistName": "Dominic Fike",
+      "artistName_link": "https://www.festicket.com/festivals/lollapalooza//artists/dominic-fike/"
+    },
+    {
+      "artistName": "King Princess",
+      "artistName_link": "https://www.festicket.com/festivals/lollapalooza//artists/king-princess/"
+    },
+    {
+      "artistName": "Wallows",
+      "artistName_link": "https://www.festicket.com/festivals/lollapalooza//artists/wallows/"
+    },
+    {
+      "artistName": "Still Woozy",
+      "artistName_link": "https://www.festicket.com/festivals/lollapalooza//artists/still-woozy/"
+    },
+    {
+      "artistName": "100 gecs",
+      "artistName_link": "https://www.festicket.com/festivals/lollapalooza//artists/100-gecs/"
+    },
+    {
+      "artistName": "girl in red",
+      "artistName_link": "https://www.festicket.com/festivals/lollapalooza//artists/girl-in-red/"
+    },
+    {
+      "artistName": "Ashnikko",
+      "artistName_link": "https://www.festicket.com/festivals/lollapalooza//artists/ashnikko-1/"
+    },
+    {
+      "artistName": "Denzel Curry",
+      "artistName_link": "https://www.festicket.com/festivals/lollapalooza//artists/denzel-curry/"
+    },
+    {
+      "artistName": "Blxst",
+      "artistName_link": "https://www.festicket.com/festivals/lollapalooza//artists/blxst/"
+    },
+    {
+      "artistName": "Black Coffee",
+      "artistName_link": "https://www.festicket.com/festivals/lollapalooza//artists/black-coffee/"
+    },
+    {
+      "artistName": "Duke Dumont",
+      "artistName_link": "https://www.festicket.com/festivals/lollapalooza//artists/duke-dumont/"
+    },
+    {
+      "artistName": "Polo & Pan",
+      "artistName_link": "https://www.festicket.com/festivals/lollapalooza//artists/polo-and-pan/"
+    },
+    {
+      "artistName": "Liquid Stranger",
+      "artistName_link": "https://www.festicket.com/festivals/lollapalooza//artists/liquid-stranger/"
+    },
+    {
+      "artistName": "CloZee",
+      "artistName_link": "https://www.festicket.com/festivals/lollapalooza//artists/clozee/"
+    },
+    {
+      "artistName": "Willow",
+      "artistName_link": "https://www.festicket.com/festivals/lollapalooza//artists/willow/"
+    },
+    {
+      "artistName": "Royal Blood",
+      "artistName_link": "https://www.festicket.com/festivals/lollapalooza//artists/royal-blood/"
+    },
+    {
+      "artistName": "Måneskin",
+      "artistName_link": "https://www.festicket.com/festivals/lollapalooza//artists/maneskin/"
+    },
+    {
+      "artistName": "Manchester Orchestra",
+      "artistName_link": "https://www.festicket.com/festivals/lollapalooza//artists/manchester-orchestra/"
+    },
+    {
+      "artistName": "Cordae",
+      "artistName_link": "https://www.festicket.com/festivals/lollapalooza//artists/cordae/"
+    },
+    {
+      "artistName": "Local Natives",
+      "artistName_link": "https://www.festicket.com/festivals/lollapalooza//artists/local-natives/"
+    },
+    {
+      "artistName": "Tove Lo",
+      "artistName_link": "https://www.festicket.com/festivals/lollapalooza//artists/tove-lo/"
+    },
+    {
+      "artistName": "The Marías",
+      "artistName_link": "https://www.festicket.com/festivals/lollapalooza//artists/the-marias/"
+    },
+    {
+      "artistName": "Caroline Polachek",
+      "artistName_link": "https://www.festicket.com/festivals/lollapalooza//artists/caroline-polachek/"
+    },
+    {
+      "artistName": "Bob Moses",
+      "artistName_link": "https://www.festicket.com/festivals/lollapalooza//artists/bob-moses/"
+    },
+    {
+      "artistName": "MK",
+      "artistName_link": "https://www.festicket.com/festivals/lollapalooza//artists/mk/"
+    },
+    {
+      "artistName": "John Summit",
+      "artistName_link": "https://www.festicket.com/festivals/lollapalooza//artists/john-summit/"
+    },
+    {
+      "artistName": "BANKS",
+      "artistName_link": "https://www.festicket.com/festivals/lollapalooza//artists/banks/"
+    },
+    {
+      "artistName": "Chelsea Cutler",
+      "artistName_link": "https://www.festicket.com/festivals/lollapalooza//artists/chelsea-cutler/"
+    },
+    {
+      "artistName": "COIN",
+      "artistName_link": "https://www.festicket.com/festivals/lollapalooza//artists/coin/"
+    },
+    {
+      "artistName": "Remi Wolf",
+      "artistName_link": "https://www.festicket.com/festivals/lollapalooza//artists/remi-wolf/"
+    },
+    {
+      "artistName": "Gordo",
+      "artistName_link": "https://www.festicket.com/festivals/lollapalooza//artists/gordo/"
+    },
+    {
+      "artistName": "FLETCHER",
+      "artistName_link": "https://www.festicket.com/festivals/lollapalooza//artists/fletcher/"
+    },
+    {
+      "artistName": "SIDEPIECE",
+      "artistName_link": "https://www.festicket.com/festivals/lollapalooza//artists/sidepiece/"
+    },
+    {
+      "artistName": "Coi Leray",
+      "artistName_link": "https://www.festicket.com/festivals/lollapalooza//artists/coi-leray/"
+    },
+    {
+      "artistName": "Dashboard Confessional",
+      "artistName_link": "https://www.festicket.com/festivals/lollapalooza//artists/dashboard-confessional/"
+    },
+    {
+      "artistName": "Zach Bryan",
+      "artistName_link": "https://www.festicket.com/festivals/lollapalooza//artists/zach-bryan/"
+    },
+    {
+      "artistName": "Beach Bunny",
+      "artistName_link": "https://www.festicket.com/festivals/lollapalooza//artists/beach-bunny/"
+    },
+    {
+      "artistName": "Tinashe",
+      "artistName_link": "https://www.festicket.com/festivals/lollapalooza//artists/tinashe/"
+    },
+    {
+      "artistName": "PinkPantheress",
+      "artistName_link": "https://www.festicket.com/festivals/lollapalooza//artists/pinkpantheress/"
+    },
+    {
+      "artistName": "MUNA",
+      "artistName_link": "https://www.festicket.com/festivals/lollapalooza//artists/muna/"
+    },
+    {
+      "artistName": "Larry June",
+      "artistName_link": "https://www.festicket.com/festivals/lollapalooza//artists/larry-june/"
+    },
+    {
+      "artistName": "Goth Babe",
+      "artistName_link": "https://www.festicket.com/festivals/lollapalooza//artists/goth-babe/"
+    },
+    {
+      "artistName": "ATLiens",
+      "artistName_link": "https://www.festicket.com/festivals/lollapalooza//artists/atliens/"
+    },
+    {
+      "artistName": "Chris Lorenzo",
+      "artistName_link": "https://www.festicket.com/festivals/lollapalooza//artists/chris-lorenzo/"
+    },
+    {
+      "artistName": "Joyner Lucas",
+      "artistName_link": "https://www.festicket.com/festivals/lollapalooza//artists/joyner-lucas/"
+    },
+    {
+      "artistName": "Role Model",
+      "artistName_link": "https://www.festicket.com/festivals/lollapalooza//artists/role-model/"
+    },
+    {
+      "artistName": "Wet Leg",
+      "artistName_link": "https://www.festicket.com/festivals/lollapalooza//artists/wet-leg/"
+    },
+    {
+      "artistName": "Gracie Abrams",
+      "artistName_link": "https://www.festicket.com/festivals/lollapalooza//artists/gracie-abrams/"
+    },
+    {
+      "artistName": "Inhaler",
+      "artistName_link": "https://www.festicket.com/festivals/lollapalooza//artists/inhaler-1/"
+    },
+    {
+      "artistName": "Sam Fender",
+      "artistName_link": "https://www.festicket.com/festivals/lollapalooza//artists/sam-fender/"
+    },
+    {
+      "artistName": "Pi’erre Bourne",
+      "artistName_link": "https://www.festicket.com/festivals/lollapalooza//artists/pierre-bourne/"
+    },
+    {
+      "artistName": "glaive",
+      "artistName_link": "https://www.festicket.com/festivals/lollapalooza//artists/glaive/"
+    },
+    {
+      "artistName": "Jax Jones",
+      "artistName_link": "https://www.festicket.com/festivals/lollapalooza//artists/jax-jones/"
+    },
+    {
+      "artistName": "The Wombats",
+      "artistName_link": "https://www.festicket.com/festivals/lollapalooza//artists/the-wombats/"
+    },
+    {
+      "artistName": "Young Nudy",
+      "artistName_link": "https://www.festicket.com/festivals/lollapalooza//artists/young-nudy/"
+    },
+    {
+      "artistName": "SoFaygo",
+      "artistName_link": "https://www.festicket.com/festivals/lollapalooza//artists/sofaygo/"
+    },
+    {
+      "artistName": "James Hype",
+      "artistName_link": "https://www.festicket.com/festivals/lollapalooza//artists/james-hype/"
+    },
+    {
+      "artistName": "The Regrettes",
+      "artistName_link": "https://www.festicket.com/festivals/lollapalooza//artists/the-regrettes/"
+    },
+    {
+      "artistName": "LP Giobbi",
+      "artistName_link": "https://www.festicket.com/festivals/lollapalooza//artists/lp-giobbi/"
+    },
+    {
+      "artistName": "Griff",
+      "artistName_link": "https://www.festicket.com/festivals/lollapalooza//artists/griff/"
+    },
+    {
+      "artistName": "Maxo Kream",
+      "artistName_link": "https://www.festicket.com/festivals/lollapalooza//artists/maxo-kream/"
+    },
+    {
+      "artistName": "WHIPPED CREAM",
+      "artistName_link": "https://www.festicket.com/festivals/lollapalooza//artists/whipped-cream-1/"
+    },
+    {
+      "artistName": "Mariah the Scientist",
+      "artistName_link": "https://www.festicket.com/festivals/lollapalooza//artists/mariah-the-scientist/"
+    },
+    {
+      "artistName": "Mahalia",
+      "artistName_link": "https://www.festicket.com/festivals/lollapalooza//artists/mahalia/"
+    },
+    {
+      "artistName": "Habstrakt",
+      "artistName_link": "https://www.festicket.com/festivals/lollapalooza//artists/habstrakt/"
+    },
+    {
+      "artistName": "KennyHoopla",
+      "artistName_link": "https://www.festicket.com/festivals/lollapalooza//artists/kennyhoopla/"
+    },
+    {
+      "artistName": "AUDREY NUNA",
+      "artistName_link": "https://www.festicket.com/festivals/lollapalooza//artists/audrey-nuna/"
+    },
+    {
+      "artistName": "Djo",
+      "artistName_link": "https://www.festicket.com/festivals/lollapalooza//artists/djo/"
+    },
+    {
+      "artistName": "Del Water Gap",
+      "artistName_link": "https://www.festicket.com/festivals/lollapalooza//artists/del-water-gap/"
+    },
+    {
+      "artistName": "Genesis Owusu",
+      "artistName_link": "https://www.festicket.com/festivals/lollapalooza//artists/genesis-owusu/"
+    },
+    {
+      "artistName": "Baby Tate",
+      "artistName_link": "https://www.festicket.com/festivals/lollapalooza//artists/baby-tate/"
+    },
+    {
+      "artistName": "Claire Rosinkranz",
+      "artistName_link": "https://www.festicket.com/festivals/lollapalooza//artists/claire-rosinkranz/"
+    },
+    {
+      "artistName": "Alexander 23",
+      "artistName_link": "https://www.festicket.com/festivals/lollapalooza//artists/alexander-23/"
+    },
+    {
+      "artistName": "Cochise",
+      "artistName_link": "https://www.festicket.com/festivals/lollapalooza//artists/cochise/"
+    },
+    {
+      "artistName": "Maude Latour",
+      "artistName_link": "https://www.festicket.com/festivals/lollapalooza//artists/maude-latour/"
+    },
+    {
+      "artistName": "TSHA",
+      "artistName_link": "https://www.festicket.com/festivals/lollapalooza//artists/tsha/"
+    },
+    {
+      "artistName": "Duckwrth",
+      "artistName_link": "https://www.festicket.com/festivals/lollapalooza//artists/duckwrth/"
+    },
+    {
+      "artistName": "Petey",
+      "artistName_link": "https://www.festicket.com/festivals/lollapalooza//artists/petey/"
+    },
+    {
+      "artistName": "Teezo TouchDown",
+      "artistName_link": "https://www.festicket.com/festivals/lollapalooza//artists/teezo-touchdown/"
+    },
+    {
+      "artistName": "EVAN GIIA",
+      "artistName_link": "https://www.festicket.com/festivals/lollapalooza//artists/evan-giia/"
+    },
+    {
+      "artistName": "Hinds",
+      "artistName_link": "https://www.festicket.com/festivals/lollapalooza//artists/hinds/"
+    },
+    {
+      "artistName": "Rolling Blackouts Coastal Fever",
+      "artistName_link": "https://www.festicket.com/festivals/lollapalooza//artists/rolling-blackouts-coastal-fever/"
+    },
+    {
+      "artistName": "Surf Mesa",
+      "artistName_link": "https://www.festicket.com/festivals/lollapalooza//artists/surf-mesa/"
+    },
+    {
+      "artistName": "Wreckno",
+      "artistName_link": "https://www.festicket.com/festivals/lollapalooza//artists/wreckno/"
+    },
+    {
+      "artistName": "Jasiah",
+      "artistName_link": "https://www.festicket.com/festivals/lollapalooza//artists/jasiah/"
+    },
+    {
+      "artistName": "Sampa the Great",
+      "artistName_link": "https://www.festicket.com/festivals/lollapalooza//artists/sampa-the-great/"
+    },
+    {
+      "artistName": "Coco & Clair Clair",
+      "artistName_link": "https://www.festicket.com/festivals/lollapalooza//artists/coco-and-clair-clair/"
+    },
+    {
+      "artistName": "Zoe Wees",
+      "artistName_link": "https://www.festicket.com/festivals/lollapalooza//artists/zoe-wees/"
+    },
+    {
+      "artistName": "GAYLE",
+      "artistName_link": "https://www.festicket.com/festivals/lollapalooza//artists/gayle/"
+    },
+    {
+      "artistName": "Horsegirl",
+      "artistName_link": "https://www.festicket.com/festivals/lollapalooza//artists/horsegirl/"
+    },
+    {
+      "artistName": "Erica Banks",
+      "artistName_link": "https://www.festicket.com/festivals/lollapalooza//artists/erica-banks/"
+    },
+    {
+      "artistName": "BIJOU",
+      "artistName_link": "https://www.festicket.com/festivals/lollapalooza//artists/bijou-1/"
+    },
+    {
+      "artistName": "ericdoa",
+      "artistName_link": "https://www.festicket.com/festivals/lollapalooza//artists/ericdoa/"
+    },
+    {
+      "artistName": "midwxst",
+      "artistName_link": "https://www.festicket.com/festivals/lollapalooza//artists/midwxst/"
+    },
+    {
+      "artistName": "KayCyy",
+      "artistName_link": "https://www.festicket.com/festivals/lollapalooza//artists/kaycyy/"
+    },
+    {
+      "artistName": "Pom Pom Squad",
+      "artistName_link": "https://www.festicket.com/festivals/lollapalooza//artists/pom-pom-squad/"
+    },
+    {
+      "artistName": "underscores",
+      "artistName_link": "https://www.festicket.com/festivals/lollapalooza//artists/underscores/"
+    },
+    {
+      "artistName": "DE’WAYNE",
+      "artistName_link": "https://www.festicket.com/festivals/lollapalooza//artists/dewayne/"
+    },
+    {
+      "artistName": "redveil",
+      "artistName_link": "https://www.festicket.com/festivals/lollapalooza//artists/redveil/"
+    },
+    {
+      "artistName": "Maddy O’Neal",
+      "artistName_link": "https://www.festicket.com/festivals/lollapalooza//artists/maddy-oneal/"
+    },
+    {
+      "artistName": "Hannah Wants",
+      "artistName_link": "https://www.festicket.com/festivals/lollapalooza//artists/hannah-wants/"
+    },
+    {
+      "artistName": "Jubilee",
+      "artistName_link": "https://www.festicket.com/festivals/lollapalooza//artists/jubilee/"
+    },
+    {
+      "artistName": "Grabbitz",
+      "artistName_link": "https://www.festicket.com/festivals/lollapalooza//artists/grabbitz/"
+    },
+    {
+      "artistName": "BIICLA",
+      "artistName_link": "https://www.festicket.com/festivals/lollapalooza//artists/biicla/"
+    },
+    {
+      "artistName": "flipturn",
+      "artistName_link": "https://www.festicket.com/festivals/lollapalooza//artists/flipturn/"
+    },
+    {
+      "artistName": "Crawlers",
+      "artistName_link": "https://www.festicket.com/festivals/lollapalooza//artists/crawlers/"
+    },
+    {
+      "artistName": "BLACKSTARKIDS",
+      "artistName_link": "https://www.festicket.com/festivals/lollapalooza//artists/blackstarkids/"
+    },
+    {
+      "artistName": "Emmy Meli",
+      "artistName_link": "https://www.festicket.com/festivals/lollapalooza//artists/emmy-meli/"
+    },
+    {
+      "artistName": "La Doña",
+      "artistName_link": "https://www.festicket.com/festivals/lollapalooza//artists/la-dona/"
+    },
+    {
+      "artistName": "Jackie Hayes",
+      "artistName_link": "https://www.festicket.com/festivals/lollapalooza//artists/jackie-hayes/"
+    },
+    {
+      "artistName": "Low Cut Connie",
+      "artistName_link": "https://www.festicket.com/festivals/lollapalooza//artists/low-cut-connie/"
+    },
+    {
+      "artistName": "Last Dinosaurs",
+      "artistName_link": "https://www.festicket.com/festivals/lollapalooza//artists/last-dinosaurs/"
+    },
+    {
+      "artistName": "Aiida",
+      "artistName_link": "https://www.festicket.com/festivals/lollapalooza//artists/aiida/"
+    },
+    {
+      "artistName": "Tony Velour",
+      "artistName_link": "https://www.festicket.com/festivals/lollapalooza//artists/tony-velour/"
+    },
+    {
+      "artistName": "Calder Allen",
+      "artistName_link": "https://www.festicket.com/festivals/lollapalooza//artists/calder-allen/"
+    },
+    {
+      "artistName": "Charm La’Donna",
+      "artistName_link": "https://www.festicket.com/festivals/lollapalooza//artists/charm-ladonna/"
+    },
+    {
+      "artistName": "Charly Jordan",
+      "artistName_link": "https://www.festicket.com/festivals/lollapalooza//artists/charly-jordan/"
+    },
+    {
+      "artistName": "COM3T",
+      "artistName_link": "https://www.festicket.com/festivals/lollapalooza//artists/com3t/"
+    },
+    {
+      "artistName": "David Solomon",
+      "artistName_link": "https://www.festicket.com/festivals/lollapalooza//artists/david-solomon/"
+    },
+    {
+      "artistName": "Lucille Croft",
+      "artistName_link": "https://www.festicket.com/festivals/lollapalooza//artists/lucille-croft/"
+    },
+    {
+      "artistName": "Zookëper",
+      "artistName_link": "https://www.festicket.com/festivals/lollapalooza//artists/zookeper/"
+    },
+    {
+      "artistName": "Steller",
+      "artistName_link": "https://www.festicket.com/festivals/lollapalooza//artists/steller/"
+    },
+    {
+      "artistName": "Young Franco",
+      "artistName_link": "https://www.festicket.com/festivals/lollapalooza//artists/young-franco/"
+    },
+    {
+      "artistName": "Buffalo Nichols",
+      "artistName_link": "https://www.festicket.com/festivals/lollapalooza//artists/buffalo-nichols/"
+    },
+    {
+      "artistName": "Dylan",
+      "artistName_link": "https://www.festicket.com/festivals/lollapalooza//artists/dylan/"
+    },
+    {
+      "artistName": "Rosie",
+      "artistName_link": "https://www.festicket.com/festivals/lollapalooza//artists/rosie/"
+    },
+    {
+      "artistName": "Jesse Jo Stark",
+      "artistName_link": "https://www.festicket.com/festivals/lollapalooza//artists/jesse-jo-stark/"
+    },
+    {
+      "artistName": "Taipei Houston",
+      "artistName_link": "https://www.festicket.com/festivals/lollapalooza//artists/taipei-houston/"
+    },
+    {
+      "artistName": "binki",
+      "artistName_link": "https://www.festicket.com/festivals/lollapalooza//artists/binki/"
+    },
+    {
+      "artistName": "India Shawn",
+      "artistName_link": "https://www.festicket.com/festivals/lollapalooza//artists/india-shawn/"
+    },
+    {
+      "artistName": "Prentiss",
+      "artistName_link": "https://www.festicket.com/festivals/lollapalooza//artists/prentiss/"
+    },
+    {
+      "artistName": "JORDY",
+      "artistName_link": "https://www.festicket.com/festivals/lollapalooza//artists/jordy-1/"
+    },
+    {
+      "artistName": "Daisy the Great",
+      "artistName_link": "https://www.festicket.com/festivals/lollapalooza//artists/daisy-the-great/"
+    },
+    {
+      "artistName": "Peter CottonTale",
+      "artistName_link": "https://www.festicket.com/festivals/lollapalooza//artists/peter-cottontale/"
+    },
+    {
+      "artistName": "Giovannie and the Hired Guns",
+      "artistName_link": "https://www.festicket.com/festivals/lollapalooza//artists/giovannie-and-the-hired-guns/"
+    },
+    {
+      "artistName": "BabyJake",
+      "artistName_link": "https://www.festicket.com/festivals/lollapalooza//artists/babyjake/"
+    },
+    {
+      "artistName": "LØLØ",
+      "artistName_link": "https://www.festicket.com/festivals/lollapalooza//artists/lolo/"
+    },
+    {
+      "artistName": "Rawayana",
+      "artistName_link": "https://www.festicket.com/festivals/lollapalooza//artists/rawayana/"
+    },
+    {
+      "artistName": "GaTa",
+      "artistName_link": "https://www.festicket.com/festivals/lollapalooza//artists/gata/"
+    },
+    {
+      "artistName": "Lorna Shore",
+      "artistName_link": "https://www.festicket.com/festivals/lollapalooza//artists/lorna-shore/"
+    },
+    {
+      "artistName": "Elhae",
+      "artistName_link": "https://www.festicket.com/festivals/lollapalooza//artists/elhae/"
+    },
+    {
+      "artistName": "Trella",
+      "artistName_link": "https://www.festicket.com/festivals/lollapalooza//artists/trella/"
+    },
+    {
+      "artistName": "Meet Me @ the Altar",
+      "artistName_link": "https://www.festicket.com/festivals/lollapalooza//artists/meet-me-the-altar/"
+    },
+    {
+      "artistName": "Mills",
+      "artistName_link": "https://www.festicket.com/festivals/lollapalooza//artists/mills/"
+    },
+    {
+      "artistName": "Sam Austins",
+      "artistName_link": "https://www.festicket.com/festivals/lollapalooza//artists/sam-austins/"
+    },
+    {
+      "artistName": "Willie Jones",
+      "artistName_link": "https://www.festicket.com/festivals/lollapalooza//artists/willie-jones/"
+    },
+    {
+      "artistName": "Jane’s Addiction",
+      "artistName_link": "https://www.festicket.com/festivals/lollapalooza//artists/janes-addiction/"
+    }
+  ]
+}
