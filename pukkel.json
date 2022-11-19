@@ -1,0 +1,1011 @@
+{
+  "id" : "pukkelpop22",
+  "name" : "Pukkelpop 2022",
+  "acts" : [
+    {
+      "text1" : "SUNDAY",
+      "artistName" : "ARCTIC MONKEYS"
+    },
+    {
+      "text1" : "SATURDAY",
+      "artistName" : "TAME IMPALA"
+    },
+    {
+      "text1" : "FRIDAY",
+      "artistName" : "SLIPKNOT"
+    },
+    {
+      "text1" : "SUNDAY",
+      "artistName" : "BRING ME THE HORIZON"
+    },
+    {
+      "text1" : "SATURDAY",
+      "artistName" : "CHARLOTTE DE WITTE"
+    },
+    {
+      "text1" : "FRIDAY",
+      "artistName" : "CYPRESS HILL"
+    },
+    {
+      "text1" : "SUNDAY",
+      "artistName" : "OSCAR AND THE WOLF"
+    },
+    {
+      "text1" : "SATURDAY",
+      "artistName" : "AURORA"
+    },
+    {
+      "text1" : "SUNDAY",
+      "artistName" : "BOYS NOIZE"
+    },
+    {
+      "text1" : "SUNDAY",
+      "artistName" : "BRIGHT EYES"
+    },
+    {
+      "text1" : "FRIDAY",
+      "artistName" : "CAMELPHAT"
+    },
+    {
+      "text1" : "SATURDAY",
+      "artistName" : "CARIBOU"
+    },
+    {
+      "text1" : "SUNDAY",
+      "artistName" : "CENTRAL CEE"
+    },
+    {
+      "text1" : "SATURDAY",
+      "artistName" : "DAVE"
+    },
+    {
+      "text1" : "SUNDAY",
+      "artistName" : "ENRICO SANGIULIANO"
+    },
+    {
+      "text1" : "SUNDAY",
+      "artistName" : "FOUR TET"
+    },
+    {
+      "text1" : "SATURDAY",
+      "artistName" : "GEORGE EZRA"
+    },
+    {
+      "text1" : "SUNDAY",
+      "artistName" : "GLASS ANIMALS"
+    },
+    {
+      "text1" : "FRIDAY",
+      "artistName" : "GOOSE"
+    },
+    {
+      "text1" : "SUNDAY",
+      "artistName" : "H.E.R."
+    },
+    {
+      "text1" : "SUNDAY",
+      "artistName" : "JACK HARLOW"
+    },
+    {
+      "text1" : "FRIDAY",
+      "artistName" : "JAMES BLAKE"
+    },
+    {
+      "text1" : "SATURDAY",
+      "artistName" : "JUNGLE"
+    },
+    {
+      "text1" : "SUNDAY",
+      "artistName" : "KÖLSCH"
+    },
+    {
+      "text1" : "FRIDAY",
+      "artistName" : "LIL UZI VERT"
+    },
+    {
+      "text1" : "SATURDAY",
+      "artistName" : "MARC REBILLET"
+    },
+    {
+      "text1" : "SATURDAY",
+      "artistName" : "NINA KRAVIZ"
+    },
+    {
+      "text1" : "FRIDAY",
+      "artistName" : "NOISIA (DJ SET)"
+    },
+    {
+      "text1" : "FRIDAY",
+      "artistName" : "NOTHING BUT THIEVES"
+    },
+    {
+      "text1" : "SATURDAY",
+      "artistName" : "THE OPPOSITES"
+    },
+    {
+      "text1" : "SATURDAY",
+      "artistName" : "PAULA TEMPLE"
+    },
+    {
+      "text1" : "FRIDAY",
+      "artistName" : "PENDULUM (LIVE)"
+    },
+    {
+      "text1" : "FRIDAY",
+      "artistName" : "RÜFÜS DU SOL"
+    },
+    {
+      "text1" : "SATURDAY",
+      "artistName" : "SEAN PAUL"
+    },
+    {
+      "text1" : "FRIDAY",
+      "artistName" : "SELAH SUE"
+    },
+    {
+      "text1" : "FRIDAY",
+      "artistName" : "SKEPTA"
+    },
+    {
+      "text1" : "FRIDAY",
+      "artistName" : "TAMINO"
+    },
+    {
+      "text1" : "SUNDAY",
+      "artistName" : "TOM MISCH"
+    },
+    {
+      "text1" : "SATURDAY",
+      "artistName" : "UNDERWORLD"
+    },
+    {
+      "text1" : "SATURDAY",
+      "artistName" : "100 GECS"
+    },
+    {
+      "text1" : "SATURDAY",
+      "artistName" : "24KGOLDN"
+    },
+    {
+      "text1" : "SATURDAY",
+      "artistName" : "AL-QASAR"
+    },
+    {
+      "text1" : "FRIDAY",
+      "artistName" : "ALEX G"
+    },
+    {
+      "text1" : "FRIDAY",
+      "artistName" : "ALFRED ANDERS"
+    },
+    {
+      "text1" : "SUNDAY",
+      "artistName" : "ALIA"
+    },
+    {
+      "text1" : "THURSDAY",
+      "artistName" : "AMBER BROOS"
+    },
+    {
+      "text1" : "FRIDAY",
+      "artistName" : "ANFISA LETYAGO"
+    },
+    {
+      "text1" : "SUNDAY",
+      "artistName" : "ANNA"
+    },
+    {
+      "text1" : "SATURDAY",
+      "artistName" : "ARLO PARKS"
+    },
+    {
+      "text1" : "FRIDAY",
+      "artistName" : "ARRDEE"
+    },
+    {
+      "text1" : "FRIDAY",
+      "artistName" : "ASHNIKKO"
+    },
+
+    {
+      "text1" : "SATURDAY",
+      "artistName" : "AUTHENTICALLY PLASTIC"
+    },
+    {
+      "text1" : "THURSDAY",
+      "artistName" : "AVA EVA"
+    },
+    {
+      "text1" : "SUNDAY",
+      "artistName" : "AXEL HAUBE"
+    },
+    {
+      "text1" : "FRIDAY",
+      "artistName" : "BAD BOY CHILLER CREW"
+    },
+    {
+      "text1" : "SUNDAY",
+      "artistName" : "BADBADNOTGOOD"
+    },
+    {
+      "text1" : "SUNDAY",
+      "artistName" : "BBNO$"
+    },
+    {
+      "text1" : "FRIDAY",
+      "artistName" : "BERWYN"
+    },
+    {
+      "text1" : "FRIDAY",
+      "artistName" : "BIBI SECK"
+    },
+    {
+      "text1" : "SUNDAY",
+      "artistName" : "BIESMANS (LIVE)"
+    },
+    {
+      "text1" : "SATURDAY",
+      "artistName" : "BIZKIT PARK"
+    },
+    {
+      "text1" : "THURSDAY",
+      "artistName" : "THE BOILERBOYS"
+    },
+    {
+      "text1" : "SUNDAY",
+      "artistName" : "BRU-C"
+    },
+    {
+      "text1" : "FRIDAY",
+      "artistName" : "CAROLESDAUGHTER"
+    },
+    {
+      "text1" : "SUNDAY",
+      "artistName" : "CAVETOWN"
+    },
+    {
+      "text1" : "SATURDAY",
+      "artistName" : "CELLINI"
+    },
+    {
+      "text1" : "FRIDAY",
+      "artistName" : "CHANNEL TRES"
+    },
+    {
+      "text1" : "FRIDAY",
+      "artistName" : "CHARLOTTE ADIGÉRY & BOLIS PUPUL"
+    },
+    {
+      "text1" : "THURSDAY",
+      "artistName" : "CHIBI ICHIGO"
+    },
+    {
+      "text1" : "SUNDAY",
+      "artistName" : "CHLOE MORIONDO"
+    },
+    {
+      "text1" : "FRIDAY",
+      "artistName" : "CHUKI BEATS & FRIENDS"
+    },
+    {
+      "text1" : "THURSDAY",
+      "artistName" : "CISCO FM"
+    },
+    {
+      "text1" : "FRIDAY",
+      "artistName" : "CLAWFINGER"
+    },
+    {
+      "text1" : "SATURDAY",
+      "artistName" : "CLEOPATRICK"
+    },
+    {
+      "text1" : "SATURDAY",
+      "artistName" : "CLUTCH"
+    },
+    {
+      "text1" : "THURSDAY",
+      "artistName" : "COELY"
+    },
+    {
+      "text1" : "SATURDAY",
+      "artistName" : "CRISTIAN D"
+    },
+    {
+      "text1" : "FRIDAY",
+      "artistName" : "DANA MONTANA"
+    },
+    {
+      "text1" : "FRIDAY",
+      "artistName" : "DAÐI FREYR"
+    },
+    {
+      "text1" : "THURSDAY",
+      "artistName" : "DE SERRE SOUNDSYSTEM"
+    },
+    {
+      "text1" : "SATURDAY",
+      "artistName" : "DE STAAT"
+    },
+    {
+      "text1" : "FRIDAY",
+      "artistName" : "DECLAN MCKENNA"
+    },
+    {
+      "text1" : "SUNDAY",
+      "artistName" : "DEHD"
+    },
+    {
+      "text1" : "SUNDAY",
+      "artistName" : "DENIS SULTA"
+    },
+    {
+      "text1" : "SUNDAY",
+      "artistName" : "DIIV"
+    },
+    {
+      "text1" : "THURSDAY",
+      "artistName" : "DIKKE"
+    },
+    {
+      "text1" : "FRIDAY",
+      "artistName" : "DJ ST. PAUL"
+    },
+    {
+      "text1" : "FRIDAY",
+      "artistName" : "DOFLAME"
+    },
+    {
+      "text1" : "SUNDAY",
+      "artistName" : "DONNY BENÉT"
+    },
+    {
+      "text1" : "SUNDAY",
+      "artistName" : "ECHT!"
+    },
+    {
+      "text1" : "SUNDAY",
+      "artistName" : "EEFJE DE VISSER"
+    },
+    {
+      "text1" : "SATURDAY",
+      "artistName" : "ELKKA"
+    },
+    {
+      "text1" : "SUNDAY",
+      "artistName" : "EMMA-JEAN THACKRAY"
+    },
+    {
+      "text1" : "SATURDAY",
+      "artistName" : "EPPO JANSSEN & FRIENDS"
+    },
+    {
+      "text1" : "SUNDAY",
+      "artistName" : "ERIS DREW"
+    },
+    {
+      "text1" : "SATURDAY",
+      "artistName" : "FAIS LE BEAU B2B VIEIRA"
+    },
+    {
+      "text1" : "FRIDAY",
+      "artistName" : "FLEDDY MELCULY"
+    },
+    {
+      "text1" : "SATURDAY",
+      "artistName" : "FOR THOSE I LOVE"
+    },
+    {
+      "text1" : "SATURDAY",
+      "artistName" : "FRANK CARTER & THE RATTLESNAKES"
+    },
+    {
+      "text1" : "SUNDAY",
+      "artistName" : "FRED AGAIN.."
+    },
+    {
+      "text1" : "SATURDAY",
+      "artistName" : "FRENNA DELUXE"
+    },
+    {
+      "text1" : "THURSDAY",
+      "artistName" : "FROUKJE"
+    },
+    {
+      "text1" : "FRIDAY",
+      "artistName" : "GABBER ELEGANZA PRESENTS THE HAKKE SHOW"
+    },
+    {
+      "text1" : "SATURDAY",
+      "artistName" : "GAYLE"
+    },
+    {
+      "text1" : "SATURDAY",
+      "artistName" : "GEESE"
+    },
+    {
+      "text1" : "FRIDAY",
+      "artistName" : "GHOSTEMANE"
+    },
+    {
+      "text1" : "THURSDAY",
+      "artistName" : "GIJS COX"
+    },
+    {
+      "text1" : "SUNDAY",
+      "artistName" : "GIRLI"
+    },
+    {
+      "text1" : "FRIDAY",
+      "artistName" : "GLINTS"
+    },
+    {
+      "text1" : "FRIDAY",
+      "artistName" : "GOLDBAND"
+    },
+    {
+      "text1" : "SATURDAY",
+      "artistName" : "GO_A"
+    },
+    {
+      "text1" : "SUNDAY",
+      "artistName" : "GUS DAPPERTON"
+    },
+    {
+      "text1" : "FRIDAY",
+      "artistName" : "HAAI"
+    },
+    {
+      "text1" : "FRIDAY",
+      "artistName" : "HAIRBABY"
+    },
+    {
+      "text1" : "FRIDAY",
+      "artistName" : "HAZARD"
+    },
+    {
+      "text1" : "SATURDAY",
+      "artistName" : "HEADIE ONE"
+    },
+    {
+      "text1" : "THURSDAY",
+      "artistName" : "HEIDEROOSJES"
+    },
+    {
+      "text1" : "SUNDAY",
+      "artistName" : "HEISA"
+    },
+    {
+      "text1" : "THURSDAY",
+      "artistName" : "HIGH HI"
+    },
+    {
+      "text1" : "THURSDAY",
+      "artistName" : "HINDU RADIO DJ'S"
+    },
+    {
+      "text1" : "SUNDAY",
+      "artistName" : "HO99O9"
+    },
+    {
+      "text1" : "FRIDAY",
+      "artistName" : "HOLLOW COVES"
+    },
+    {
+      "text1" : "THURSDAY",
+      "artistName" : "HYALYTE"
+    },
+    {
+      "text1" : "SATURDAY",
+      "artistName" : "I-F"
+    },
+    {
+      "text1" : "SATURDAY",
+      "artistName" : "IBE"
+    },
+    {
+      "text1" : "SATURDAY",
+      "artistName" : "IBEYI"
+    },
+    {
+      "text1" : "FRIDAY",
+      "artistName" : "ILSE LIEBENS"
+    },
+    {
+      "text1" : "SATURDAY",
+      "artistName" : "INDIGO DE SOUZA"
+    },
+    {
+      "text1" : "THURSDAY",
+      "artistName" : "JEWELS"
+    },
+    {
+      "text1" : "SATURDAY",
+      "artistName" : "JOB JOBSE"
+    },
+    {
+      "text1" : "SUNDAY",
+      "artistName" : "JOEY VALENCE & BRAE"
+    },
+    {
+      "text1" : "SUNDAY",
+      "artistName" : "JOOST"
+    },
+    {
+      "text1" : "FRIDAY",
+      "artistName" : "JORDAN RAKEI"
+    },
+    {
+      "text1" : "SUNDAY",
+      "artistName" : "JOY CROOKES"
+    },
+    {
+      "text1" : "SATURDAY",
+      "artistName" : "JOYHAUSER"
+    },
+    {
+      "text1" : "SATURDAY",
+      "artistName" : "KAMAL."
+    },
+    {
+      "text1" : "SATURDAY",
+      "artistName" : "KAMO MPHELA"
+    },
+    {
+      "text1" : "SUNDAY",
+      "artistName" : "KAMPIRE & DECAY PRESENT BUNU BOP"
+    },
+    {
+      "text1" : "SATURDAY",
+      "artistName" : "KELLY LEE OWENS"
+    },
+    {
+      "text1" : "THURSDAY",
+      "artistName" : "KESTIFIED"
+    },
+    {
+      "text1" : "FRIDAY",
+      "artistName" : "KEVIN & THE ANIMALS"
+    },
+    {
+      "text1" : "SATURDAY",
+      "artistName" : "KI\/KI"
+    },
+    {
+      "text1" : "THURSDAY",
+      "artistName" : "KIANI & HIS LEGION"
+    },
+    {
+      "text1" : "SATURDAY",
+      "artistName" : "KILLS BIRDS"
+    },
+    {
+      "text1" : "SATURDAY",
+      "artistName" : "KILLTHELOGO"
+    },
+    {
+      "text1" : "FRIDAY",
+      "artistName" : "KING HANNAH"
+    },
+    {
+      "text1" : "FRIDAY",
+      "artistName" : "KLAPS"
+    },
+    {
+      "text1" : "FRIDAY",
+      "artistName" : "KOKOROKO"
+    },
+    {
+      "text1" : "FRIDAY",
+      "artistName" : "KRANKK"
+    },
+    {
+      "text1" : "THURSDAY",
+      "artistName" : "KWIJT TREK SYSTEM"
+    },
+    {
+      "text1" : "SUNDAY",
+      "artistName" : "LALMA"
+    },
+    {
+      "text1" : "FRIDAY",
+      "artistName" : "LANCEY FOUX"
+    },
+    {
+      "text1" : "THURSDAY",
+      "artistName" : "LANDER & ADRIAAN"
+    },
+    {
+      "text1" : "SUNDAY",
+      "artistName" : "LIJPE"
+    },
+    {
+      "text1" : "SATURDAY",
+      "artistName" : "LITTLE SIMZ"
+    },
+    {
+      "text1" : "SATURDAY",
+      "artistName" : "LOLA HARO"
+    },
+    {
+      "text1" : "SATURDAY",
+      "artistName" : "LOUIS VOGUE"
+    },
+    {
+      "text1" : "SUNDAY",
+      "artistName" : "M I M I"
+    },
+    {
+      "text1" : "FRIDAY",
+      "artistName" : "MAHALIA"
+    },
+    {
+      "text1" : "SATURDAY",
+      "artistName" : "MALL GRAB"
+    },
+    {
+      "text1" : "THURSDAY",
+      "artistName" : "MARGUILLIER"
+    },
+    {
+      "text1" : "SATURDAY",
+      "artistName" : "MATI DROME"
+    },
+    {
+      "text1" : "SATURDAY",
+      "artistName" : "MDOU MOCTAR"
+    },
+    {
+      "text1" : "SUNDAY",
+      "artistName" : "MEAU"
+    },
+    {
+      "text1" : "FRIDAY",
+      "artistName" : "MEROL"
+    },
+    {
+      "text1" : "SUNDAY",
+      "artistName" : "MESKEREM MEES"
+    },
+    {
+      "text1" : "FRIDAY",
+      "artistName" : "MEYY"
+    },
+    {
+      "text1" : "SUNDAY",
+      "artistName" : "MICHAEL MIDNIGHT"
+    },
+    {
+      "text1" : "SUNDAY",
+      "artistName" : "MILO MESKENS"
+    },
+    {
+      "text1" : "SATURDAY",
+      "artistName" : "MIMI WEBB"
+    },
+    {
+      "text1" : "SATURDAY",
+      "artistName" : "MISS ANGEL"
+    },
+    {
+      "text1" : "FRIDAY",
+      "artistName" : "MOMENTS"
+    },
+    {
+      "text1" : "SUNDAY",
+      "artistName" : "MOONCHILD SANELLY"
+    },
+    {
+      "text1" : "SATURDAY",
+      "artistName" : "MOONEYE"
+    },
+    {
+      "text1" : "SUNDAY",
+      "artistName" : "NAETHAN"
+    },
+    {
+      "text1" : "SUNDAY",
+      "artistName" : "NEWDAD"
+    },
+    {
+      "text1" : "FRIDAY",
+      "artistName" : "NOSEDRIP"
+    },
+    {
+      "text1" : "SUNDAY",
+      "artistName" : "NOVA TWINS"
+    },
+    {
+      "text1" : "SUNDAY",
+      "artistName" : "NU GENEA (LIVE BAND)"
+    },
+    {
+      "text1" : "SUNDAY",
+      "artistName" : "O'FLYNN"
+    },
+    {
+      "text1" : "FRIDAY",
+      "artistName" : "OGENN"
+    },
+    {
+      "text1" : "THURSDAY",
+      "artistName" : "OMDAT HET KAN SOUNDSYSTEM FEAT. AVERAGE ROB"
+    },
+    {
+      "text1" : "SATURDAY",
+      "artistName" : "OVERMONO (LIVE)"
+    },
+    {
+      "text1" : "SATURDAY",
+      "artistName" : "PALAYE ROYALE"
+    },
+    {
+      "text1" : "THURSDAY",
+      "artistName" : "PIEN LEFRANC & DOUBLE D"
+    },
+    {
+      "text1" : "SATURDAY",
+      "artistName" : "PINKPANTHERESS"
+    },
+    {
+      "text1" : "FRIDAY",
+      "artistName" : "PITOU"
+    },
+    {
+      "text1" : "FRIDAY",
+      "artistName" : "Q"
+    },
+    {
+      "text1" : "SUNDAY",
+      "artistName" : "REMI WOLF"
+    },
+    {
+      "text1" : "SUNDAY",
+      "artistName" : "ROLE MODEL"
+    },
+    {
+      "text1" : "FRIDAY",
+      "artistName" : "ROMY"
+    },
+    {
+      "text1" : "FRIDAY",
+      "artistName" : "S10"
+    },
+    {
+      "text1" : "SUNDAY",
+      "artistName" : "SAD NIGHT DYNAMITE"
+    },
+    {
+      "text1" : "FRIDAY",
+      "artistName" : "SAM DE NEF"
+    },
+    {
+      "text1" : "FRIDAY",
+      "artistName" : "SASASAS"
+    },
+    {
+      "text1" : "SATURDAY",
+      "artistName" : "SÉA"
+    },
+    {
+      "text1" : "SUNDAY",
+      "artistName" : "SEA GIRLS"
+    },
+    {
+      "text1" : "FRIDAY",
+      "artistName" : "SEGA BODEGA"
+    },
+    {
+      "text1" : "SATURDAY",
+      "artistName" : "SHAME"
+    },
+    {
+      "text1" : "SUNDAY",
+      "artistName" : "SIGRID"
+    },
+    {
+      "text1" : "SUNDAY",
+      "artistName" : "SLIFT"
+    },
+    {
+      "text1" : "SUNDAY",
+      "artistName" : "SLOW CRUSH"
+    },
+    {
+      "text1" : "FRIDAY",
+      "artistName" : "SLOWTHAI"
+    },
+    {
+      "text1" : "SUNDAY",
+      "artistName" : "SONS OF KEMET"
+    },
+    {
+      "text1" : "THURSDAY",
+      "artistName" : "THE SORE LOSERS"
+    },
+    {
+      "text1" : "SATURDAY",
+      "artistName" : "SPFDJ"
+    },
+    {
+      "text1" : "SATURDAY",
+      "artistName" : "STAKE"
+    },
+    {
+      "text1" : "SUNDAY",
+      "artistName" : "STIJN VAN DE VOORDE & THIBAULT CHRISTIAENSEN"
+    },
+    {
+      "text1" : "THURSDAY",
+      "artistName" : "STIKSTOF"
+    },
+    {
+      "text1" : "THURSDAY",
+      "artistName" : "SYLVIE KREUSCH"
+    },
+    {
+      "text1" : "SATURDAY",
+      "artistName" : "TAI VERDES"
+    },
+    {
+      "text1" : "SATURDAY",
+      "artistName" : "THE CLOCKWORKS"
+    },
+    {
+      "text1" : "FRIDAY",
+      "artistName" : "THE HAUNTED YOUTH"
+    },
+    {
+      "text1" : "SUNDAY",
+      "artistName" : "THE LATHUMS"
+    },
+    {
+      "text1" : "SATURDAY",
+      "artistName" : "THE MURDER CAPITAL"
+    },
+    {
+      "text1" : "SATURDAY",
+      "artistName" : "TKAY MAIDZA"
+    },
+    {
+      "text1" : "THURSDAY",
+      "artistName" : "USED"
+    },
+    {
+      "text1" : "SATURDAY",
+      "artistName" : "VIAGRA BOYS"
+    },
+    {
+      "text1" : "FRIDAY",
+      "artistName" : "VITALIC"
+    },
+    {
+      "text1" : "FRIDAY",
+      "artistName" : "VOETVOLK INTO THE OPEN"
+    },
+    {
+      "text1" : "SATURDAY",
+      "artistName" : "VUKOVI"
+    },
+    {
+      "text1" : "FRIDAY",
+      "artistName" : "WARGASM"
+    },
+    {
+      "text1" : "FRIDAY",
+      "artistName" : "WESLEY JOSEPH"
+    },
+    {
+      "text1" : "SATURDAY",
+      "artistName" : "WESTHINDER"
+    },
+    {
+      "text1" : "SATURDAY",
+      "artistName" : "WET LEG"
+    },
+    {
+      "text1" : "FRIDAY",
+      "artistName" : "WHILE SHE SLEEPS"
+    },
+    {
+      "text1" : "THURSDAY",
+      "artistName" : "WILLY ORGAN XL"
+    },
+    {
+      "text1" : "FRIDAY",
+      "artistName" : "WU-LU"
+    },
+    {
+      "text1" : "SATURDAY",
+      "artistName" : "YARD ACT"
+    },
+    {
+      "text1" : "THURSDAY",
+      "artistName" : "YONG YELLO"
+    },
+    {
+      "text1" : "SUNDAY",
+      "artistName" : "YOOTH"
+    },
+    {
+      "text1" : "FRIDAY",
+      "artistName" : "YU SU"
+    },
+    {
+      "text1" : "FRIDAY",
+      "artistName" : "YUSSEF DAYES"
+    },
+    {
+      "text1" : "SUNDAY",
+      "artistName" : "2 TIMES NOTHING"
+    },
+    {
+      "text1" : "SUNDAY",
+      "artistName" : "ASHLEY MORGAN"
+    },
+    {
+      "text1" : "SATURDAY",
+      "artistName" : "BEN BERTRAND"
+    },
+    {
+      "text1" : "SUNDAY",
+      "artistName" : "COMITÉ HYPNOTISÉ"
+    },
+    {
+      "text1" : "SUNDAY",
+      "artistName" : "DUSHIME"
+    },
+    {
+      "text1" : "FRIDAY",
+      "artistName" : "FLAPY B2B AROH"
+    },
+    {
+      "text1" : "SATURDAY",
+      "artistName" : "JUSTINE GRILLET"
+    },
+    {
+      "text1" : "SUNDAY",
+      "artistName" : "KOO"
+    },
+    {
+      "text1" : "FRIDAY",
+      "artistName" : "L. JACOBS"
+    },
+    {
+      "text1" : "SATURDAY",
+      "artistName" : "LAWRENCE LE DOUX"
+    },
+    {
+      "text1" : "SUNDAY",
+      "artistName" : "MADBA"
+    },
+    {
+      "text1" : "SATURDAY",
+      "artistName" : "MIKA OKI"
+    },
+    {
+      "text1" : "SATURDAY",
+      "artistName" : "NIELS ORENS"
+    },
+    {
+      "text1" : "FRIDAY",
+      "artistName" : "OÏ LES OX"
+    },
+    {
+      "text1" : "FRIDAY",
+      "artistName" : "PEGA"
+    },
+    {
+      "text1" : "FRIDAY",
+      "artistName" : "STACKS"
+    },
+    {
+      "text1" : "FRIDAY",
+      "artistName" : "VICTOR DE ROO"
+    },
+    {
+      "text1" : "SATURDAY",
+      "artistName" : "VIEZE MEISJE"
+    }
+  ]
+}
