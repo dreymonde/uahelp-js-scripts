@@ -1,0 +1,681 @@
+{
+  "location" : "Chicago, IL - Grant Park",
+  "id" : "Lollapalooza23",
+  "dates" : "Aug 3-6, 2023",
+  "acts" : [
+    {
+      "festivalDay" : "THURSDAY",
+      "artistName" : "BILLIE EILISH"
+    },
+    {
+      "festivalDay" : "THURSDAY",
+      "artistName" : "KAROL G"
+    },
+    {
+      "festivalDay" : "THURSDAY",
+      "artistName" : "NOAH KAHAN"
+    },
+    {
+      "festivalDay" : "THURSDAY",
+      "artistName" : "CARLY RAE JEPSEN"
+    },
+    {
+      "festivalDay" : "THURSDAY",
+      "artistName" : "DIPLO"
+    },
+    {
+      "festivalDay" : "THURSDAY",
+      "artistName" : "NEWJEANS"
+    },
+    {
+      "festivalDay" : "THURSDAY",
+      "artistName" : "SOFI TUKKER"
+    },
+    {
+      "festivalDay" : "THURSDAY",
+      "artistName" : "PORTUGAL. THE MAN"
+    },
+    {
+      "festivalDay" : "THURSDAY",
+      "artistName" : "DOM DOLLA"
+    },
+    {
+      "festivalDay" : "THURSDAY",
+      "artistName" : "LAINEY WILSON"
+    },
+    {
+      "festivalDay" : "THURSDAY",
+      "artistName" : "THE ROSE"
+    },
+    {
+      "festivalDay" : "THURSDAY",
+      "artistName" : "KEY GLOCK"
+    },
+    {
+      "festivalDay" : "THURSDAY",
+      "artistName" : "REMA"
+    },
+    {
+      "festivalDay" : "THURSDAY",
+      "artistName" : "MEN I TRUST"
+    },
+    {
+      "festivalDay" : "THURSDAY",
+      "artistName" : "TIMMY TRUMPET"
+    },
+    {
+      "festivalDay" : "THURSDAY",
+      "artistName" : "ACRAZE"
+    },
+    {
+      "festivalDay" : "THURSDAY",
+      "artistName" : "LOVEJOY"
+    },
+    {
+      "festivalDay" : "THURSDAY",
+      "artistName" : "JESSIE MURPH"
+    },
+    {
+      "festivalDay" : "THURSDAY",
+      "artistName" : "J. WORRA"
+    },
+    {
+      "festivalDay" : "THURSDAY",
+      "artistName" : "JOY OLADOKUN"
+    },
+    {
+      "festivalDay" : "THURSDAY",
+      "artistName" : "FRANC MOODY"
+    },
+    {
+      "festivalDay" : "THURSDAY",
+      "artistName" : "DISCO LINES"
+    },
+    {
+      "festivalDay" : "THURSDAY",
+      "artistName" : "SPACEY JANE"
+    },
+    {
+      "festivalDay" : "THURSDAY",
+      "artistName" : "BRAKENCE"
+    },
+    {
+      "festivalDay" : "THURSDAY",
+      "artistName" : "CLINTON KANE"
+    },
+    {
+      "festivalDay" : "THURSDAY",
+      "artistName" : "DOPE LEMON"
+    },
+    {
+      "festivalDay" : "THURSDAY",
+      "artistName" : "THE BEACHES"
+    },
+    {
+      "festivalDay" : "THURSDAY",
+      "artistName" : "MATT MALTESE"
+    },
+    {
+      "festivalDay" : "THURSDAY",
+      "artistName" : "AX & THE HATCHETMEN"
+    },
+    {
+      "festivalDay" : "THURSDAY",
+      "artistName" : "RICHY MITCH & THE COAL MINERS"
+    },
+    {
+      "festivalDay" : "THURSDAY",
+      "artistName" : "BEAUTY SCHOOL DROPOUT"
+    },
+    {
+      "festivalDay" : "THURSDAY",
+      "artistName" : "CHRISTIAN GATES"
+    },
+    {
+      "festivalDay" : "THURSDAY",
+      "artistName" : "KIDD KENN"
+    },
+    {
+      "festivalDay" : "THURSDAY",
+      "artistName" : "AUSTIN MEADE"
+    },
+    {
+      "festivalDay" : "THURSDAY",
+      "artistName" : "FINISH TICKET"
+    },
+    {
+      "festivalDay" : "THURSDAY",
+      "artistName" : "CAROLA"
+    },
+    {
+      "festivalDay" : "THURSDAY",
+      "artistName" : "ISABEL LAROSA"
+    },
+    {
+      "festivalDay" : "THURSDAY",
+      "artistName" : "ARATH HERCE"
+    },
+    {
+      "festivalDay" : "THURSDAY",
+      "artistName" : "LESLY REYNAGA"
+    },
+    {
+      "festivalDay" : "THURSDAY",
+      "artistName" : "BAD NEIGHBORS"
+    },
+    {
+      "festivalDay" : "THURSDAY",
+      "artistName" : "PONY BRADSHAW"
+    },
+    {
+      "festivalDay" : "FRIDAY",
+      "artistName" : "KENDRICK LAMAR"
+    },
+    {
+      "festivalDay" : "FRIDAY",
+      "artistName" : "THE 1975"
+    },
+    {
+      "festivalDay" : "FRIDAY",
+      "artistName" : "FRED AGAIN.."
+    },
+    {
+      "festivalDay" : "FRIDAY",
+      "artistName" : "THIRTY SECONDS TO MARS"
+    },
+    {
+      "festivalDay" : "FRIDAY",
+      "artistName" : "SUBTRONICS"
+    },
+    {
+      "festivalDay" : "FRIDAY",
+      "artistName" : "SVDDEN DEATH"
+    },
+    {
+      "festivalDay" : "FRIDAY",
+      "artistName" : "TEMS"
+    },
+    {
+      "festivalDay" : "FRIDAY",
+      "artistName" : "BEABADOOBEE"
+    },
+    {
+      "festivalDay" : "FRIDAY",
+      "artistName" : "BIG WILD"
+    },
+    {
+      "festivalDay" : "FRIDAY",
+      "artistName" : "SABRINA CARPENTER"
+    },
+    {
+      "festivalDay" : "FRIDAY",
+      "artistName" : "JESSIE REYEZ"
+    },
+    {
+      "festivalDay" : "FRIDAY",
+      "artistName" : "KNOCKED LOOSE"
+    },
+    {
+      "festivalDay" : "FRIDAY",
+      "artistName" : "FOALS"
+    },
+    {
+      "festivalDay" : "FRIDAY",
+      "artistName" : "DIESEL"
+    },
+    {
+      "festivalDay" : "FRIDAY",
+      "artistName" : "PEACH PIT"
+    },
+    {
+      "festivalDay" : "FRIDAY",
+      "artistName" : "KEN CARSON"
+    },
+    {
+      "festivalDay" : "FRIDAY",
+      "artistName" : "ARMNHMR"
+    },
+    {
+      "festivalDay" : "FRIDAY",
+      "artistName" : "DECLAN MCKENNA"
+    },
+    {
+      "festivalDay" : "FRIDAY",
+      "artistName" : "SUDAN ARCHIVES"
+    },
+    {
+      "festivalDay" : "FRIDAY",
+      "artistName" : "EMO NITE"
+    },
+    {
+      "festivalDay" : "FRIDAY",
+      "artistName" : "RAY VOLPE"
+    },
+    {
+      "festivalDay" : "FRIDAY",
+      "artistName" : "BLANKE"
+    },
+    {
+      "festivalDay" : "FRIDAY",
+      "artistName" : "HAIRITAGE"
+    },
+    {
+      "festivalDay" : "FRIDAY",
+      "artistName" : "SUECO"
+    },
+    {
+      "festivalDay" : "FRIDAY",
+      "artistName" : "THE 502S"
+    },
+    {
+      "festivalDay" : "FRIDAY",
+      "artistName" : "BAND-MAID"
+    },
+    {
+      "festivalDay" : "FRIDAY",
+      "artistName" : "LOVELESS"
+    },
+    {
+      "festivalDay" : "FRIDAY",
+      "artistName" : "CAFUNE"
+    },
+    {
+      "festivalDay" : "FRIDAY",
+      "artistName" : "SKIZZY MARS"
+    },
+    {
+      "festivalDay" : "FRIDAY",
+      "artistName" : "EKKSTACY"
+    },
+    {
+      "festivalDay" : "FRIDAY",
+      "artistName" : "GIANT ROOKS"
+    },
+    {
+      "festivalDay" : "FRIDAY",
+      "artistName" : "SINCERE ENGINEER"
+    },
+    {
+      "festivalDay" : "FRIDAY",
+      "artistName" : "TIACORINE"
+    },
+    {
+      "festivalDay" : "FRIDAY",
+      "artistName" : "ANNIE DIRUSSO"
+    },
+    {
+      "festivalDay" : "FRIDAY",
+      "artistName" : "SOMADINA"
+    },
+    {
+      "festivalDay" : "FRIDAY",
+      "artistName" : "TALK"
+    },
+    {
+      "festivalDay" : "FRIDAY",
+      "artistName" : "HEMLOCKE SPRINGS"
+    },
+    {
+      "festivalDay" : "FRIDAY",
+      "artistName" : "CYDEWAYS"
+    },
+    {
+      "festivalDay" : "FRIDAY",
+      "artistName" : "CHARLOTTE SANDS"
+    },
+    {
+      "festivalDay" : "FRIDAY",
+      "artistName" : "TYLER CHRISTIAN"
+    },
+    {
+      "festivalDay" : "FRIDAY",
+      "artistName" : "LOVIET"
+    },
+    {
+      "festivalDay" : "FRIDAY",
+      "artistName" : "JUNIOR MESA"
+    },
+    {
+      "festivalDay" : "FRIDAY",
+      "artistName" : "NINAJIRACHI"
+    },
+    {
+      "festivalDay" : "SATURDAY",
+      "artistName" : "ODESZA"
+    },
+    {
+      "festivalDay" : "SATURDAY",
+      "artistName" : "TOMORROW X TOGETHER"
+    },
+    {
+      "festivalDay" : "SATURDAY",
+      "artistName" : "MAGGIE ROGERS"
+    },
+    {
+      "festivalDay" : "SATURDAY",
+      "artistName" : "J.I.D"
+    },
+    {
+      "festivalDay" : "SATURDAY",
+      "artistName" : "PUSHA T"
+    },
+    {
+      "festivalDay" : "SATURDAY",
+      "artistName" : "YUNG GRAVY"
+    },
+    {
+      "festivalDay" : "SATURDAY",
+      "artistName" : "THE REVIVALISTS"
+    },
+    {
+      "festivalDay" : "SATURDAY",
+      "artistName" : "MEDUZA"
+    },
+    {
+      "festivalDay" : "SATURDAY",
+      "artistName" : "NORA EN PURE"
+    },
+    {
+      "festivalDay" : "SATURDAY",
+      "artistName" : "AC SLATER"
+    },
+    {
+      "festivalDay" : "SATURDAY",
+      "artistName" : "MORGAN WADE"
+    },
+    {
+      "festivalDay" : "SATURDAY",
+      "artistName" : "SYLVAN ESSO"
+    },
+    {
+      "festivalDay" : "SATURDAY",
+      "artistName" : "ALEX G"
+    },
+    {
+      "festivalDay" : "SATURDAY",
+      "artistName" : "THE GARDEN"
+    },
+    {
+      "festivalDay" : "SATURDAY",
+      "artistName" : "NIKI"
+    },
+    {
+      "festivalDay" : "SATURDAY",
+      "artistName" : "DESTROY LONELY"
+    },
+    {
+      "festivalDay" : "SATURDAY",
+      "artistName" : "SUKI WATERHOUSE"
+    },
+    {
+      "festivalDay" : "SATURDAY",
+      "artistName" : "KNOCK2"
+    },
+    {
+      "festivalDay" : "SATURDAY",
+      "artistName" : "IVAN CORNEJO"
+    },
+    {
+      "festivalDay" : "SATURDAY",
+      "artistName" : "THEE SACRED SOULS"
+    },
+    {
+      "festivalDay" : "SATURDAY",
+      "artistName" : "THE KNOCKS"
+    },
+    {
+      "festivalDay" : "SATURDAY",
+      "artistName" : "SOLARDO"
+    },
+    {
+      "festivalDay" : "SATURDAY",
+      "artistName" : "ZACK FOX"
+    },
+    {
+      "festivalDay" : "SATURDAY",
+      "artistName" : "TOM ODELL"
+    },
+    {
+      "festivalDay" : "SATURDAY",
+      "artistName" : "JEAN DAWSON"
+    },
+    {
+      "festivalDay" : "SATURDAY",
+      "artistName" : "BONNIE X CLYDE"
+    },
+    {
+      "festivalDay" : "SATURDAY",
+      "artistName" : "REMK"
+    },
+    {
+      "festivalDay" : "SATURDAY",
+      "artistName" : "THE LINDA LINDAS"
+    },
+    {
+      "festivalDay" : "SATURDAY",
+      "artistName" : "MAVI"
+    },
+    {
+      "festivalDay" : "SATURDAY",
+      "artistName" : "PARDYALONE"
+    },
+    {
+      "festivalDay" : "SATURDAY",
+      "artistName" : "FRIDAY PILOTS CLUB"
+    },
+    {
+      "festivalDay" : "SATURDAY",
+      "artistName" : "MOTHERFOLK"
+    },
+    {
+      "festivalDay" : "SATURDAY",
+      "artistName" : "ARLIE"
+    },
+    {
+      "festivalDay" : "SATURDAY",
+      "artistName" : "ARI ABDUL"
+    },
+    {
+      "festivalDay" : "SATURDAY",
+      "artistName" : "DANIELLE PONDER"
+    },
+    {
+      "festivalDay" : "SATURDAY",
+      "artistName" : "AIDAN BISSETT"
+    },
+    {
+      "festivalDay" : "SATURDAY",
+      "artistName" : "WINDSER"
+    },
+    {
+      "festivalDay" : "SATURDAY",
+      "artistName" : "ARCY DRIVE"
+    },
+    {
+      "festivalDay" : "SATURDAY",
+      "artistName" : "LOS APTOS"
+    },
+    {
+      "festivalDay" : "SATURDAY",
+      "artistName" : "USTED SENALEMELO"
+    },
+    {
+      "festivalDay" : "SATURDAY",
+      "artistName" : "BENSON"
+    },
+    {
+      "festivalDay" : "SATURDAY",
+      "artistName" : "HOOSH"
+    },
+    {
+      "festivalDay" : "SUNDAY",
+      "artistName" : "RED HOT CHILI PEPPERS"
+    },
+    {
+      "festivalDay" : "SUNDAY",
+      "artistName" : "LANA DEL REY"
+    },
+    {
+      "festivalDay" : "SUNDAY",
+      "artistName" : "A BOOGIE WITH DA HOODIE"
+    },
+    {
+      "festivalDay" : "SUNDAY",
+      "artistName" : "LOUIS THE CHILD"
+    },
+    {
+      "festivalDay" : "SUNDAY",
+      "artistName" : "RINA SAWAYAMA"
+    },
+    {
+      "festivalDay" : "SUNDAY",
+      "artistName" : "LIL YACHTY"
+    },
+    {
+      "festivalDay" : "SUNDAY",
+      "artistName" : "MT. JOY"
+    },
+    {
+      "festivalDay" : "SUNDAY",
+      "artistName" : "THE BACKSEAT LOVERS"
+    },
+    {
+      "festivalDay" : "SUNDAY",
+      "artistName" : "ALAN WALKER"
+    },
+    {
+      "festivalDay" : "SUNDAY",
+      "artistName" : "AFROJACK"
+    },
+    {
+      "festivalDay" : "SUNDAY",
+      "artistName" : "JOEY BADASS"
+    },
+    {
+      "festivalDay" : "SUNDAY",
+      "artistName" : "GORGON CITY"
+    },
+    {
+      "festivalDay" : "SUNDAY",
+      "artistName" : "MAISIE PETERS"
+    },
+    {
+      "festivalDay" : "SUNDAY",
+      "artistName" : "DPR IAN + DPR LIVE"
+    },
+    {
+      "festivalDay" : "SUNDAY",
+      "artistName" : "POOLSIDE"
+    },
+    {
+      "festivalDay" : "SUNDAY",
+      "artistName" : "WAX MOTIF"
+    },
+    {
+      "festivalDay" : "SUNDAY",
+      "artistName" : "L'IMPERATRICE"
+    },
+    {
+      "festivalDay" : "SUNDAY",
+      "artistName" : "HOLLY HUMBERSTONE"
+    },
+    {
+      "festivalDay" : "SUNDAY",
+      "artistName" : "DEHD"
+    },
+    {
+      "festivalDay" : "SUNDAY",
+      "artistName" : "MATRODA"
+    },
+    {
+      "festivalDay" : "SUNDAY",
+      "artistName" : "MAGDALENA BAY"
+    },
+    {
+      "festivalDay" : "SUNDAY",
+      "artistName" : "NEIL FRANCES"
+    },
+    {
+      "festivalDay" : "SUNDAY",
+      "artistName" : "UMI"
+    },
+    {
+      "festivalDay" : "SUNDAY",
+      "artistName" : "THE HAPPY FITS"
+    },
+    {
+      "festivalDay" : "SUNDAY",
+      "artistName" : "GABRIELS"
+    },
+    {
+      "festivalDay" : "SUNDAY",
+      "artistName" : "MICHELLE"
+    },
+    {
+      "festivalDay" : "SUNDAY",
+      "artistName" : "DILLON NATHANIEL"
+    },
+    {
+      "festivalDay" : "SUNDAY",
+      "artistName" : "BAKAR"
+    },
+    {
+      "festivalDay" : "SUNDAY",
+      "artistName" : "UPSAHL"
+    },
+    {
+      "festivalDay" : "SUNDAY",
+      "artistName" : "INGRID ANDRESS"
+    },
+    {
+      "festivalDay" : "SUNDAY",
+      "artistName" : "ELLA JANE"
+    },
+    {
+      "festivalDay" : "SUNDAY",
+      "artistName" : "MADELINE EDWARDS"
+    },
+    {
+      "festivalDay" : "SUNDAY",
+      "artistName" : "LITTLE STRANGER"
+    },
+    {
+      "festivalDay" : "SUNDAY",
+      "artistName" : "JOSH FUDGE"
+    },
+    {
+      "festivalDay" : "SUNDAY",
+      "artistName" : "HUSBANDS"
+    },
+    {
+      "festivalDay" : "SUNDAY",
+      "artistName" : "ROSA LINN"
+    },
+    {
+      "festivalDay" : "SUNDAY",
+      "artistName" : "SARAH KINSLEY"
+    },
+    {
+      "festivalDay" : "SUNDAY",
+      "artistName" : "BIG BOSS VETTE"
+    },
+    {
+      "festivalDay" : "SUNDAY",
+      "artistName" : "THE RED CLAY STRAYS"
+    },
+    {
+      "festivalDay" : "SUNDAY",
+      "artistName" : "HARRY EDOHOUKWA"
+    },
+    {
+      "festivalDay" : "SUNDAY",
+      "artistName" : "CHICAGO MADE"
+    },
+    {
+      "festivalDay" : "SUNDAY",
+      "artistName" : "IAN ASHER"
+    }
+  ],
+  "name" : "Lollapalooza 2023",
+  "shortName" : "Lollapalooza"
+}
